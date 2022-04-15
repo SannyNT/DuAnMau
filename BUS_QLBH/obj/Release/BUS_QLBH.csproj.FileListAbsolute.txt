@@ -1,0 +1,11 @@
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\BUS_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\BUS_QLBH.pdb
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\DAL_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\DTO_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\DAL_QLBH.pdb
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\bin\Release\DTO_QLBH.pdb
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\obj\Release\BUS_QLBH.csproj.AssemblyReference.cache
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\obj\Release\BUS_QLBH.csproj.CoreCompileInputs.cache
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\obj\Release\BUS_QLBH.csproj.CopyComplete
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\obj\Release\BUS_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\BUS_QLBH\obj\Release\BUS_QLBH.pdb

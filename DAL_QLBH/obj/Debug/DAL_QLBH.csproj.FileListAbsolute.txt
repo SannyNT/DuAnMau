@@ -1,0 +1,9 @@
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\bin\Debug\DAL_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\bin\Debug\DAL_QLBH.pdb
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\bin\Debug\DTO_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\bin\Debug\DTO_QLBH.pdb
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.AssemblyReference.cache
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.CoreCompileInputs.cache
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\obj\Debug\DAL_QLBH.csproj.CopyComplete
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\obj\Debug\DAL_QLBH.dll
+C:\SOF205-Dự án mẫu\PM_QuanLyBanHang\DAL_QLBH\obj\Debug\DAL_QLBH.pdb
